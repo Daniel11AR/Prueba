@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BiV32C65efot69oZFDXRoMj41Bo1pMxnKqXrCQG6Icy/ih3U4LWTibJ94LOFX9jpT0v0Nh9q2dQnrF4I2Z1J+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Ejercicios_net\\practica\\prueba3\\prueba3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\kylib\\1.5.6\\kylib.1.5.6.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\kylib.consoleutils\\1.5.6\\kylib.consoleutils.1.5.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "KYLib/1.5.6": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/KYLib.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/KYLib.dll": {}
+        }
+      },
+      "KYLib.ConsoleUtils/1.5.6": {
+        "type": "package",
+        "dependencies": {
+          "KYLib": "1.5.6"
+        },
+        "compile": {
+          "lib/netstandard2.1/KYLib.ConsoleUtils.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/KYLib.ConsoleUtils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KYLib/1.5.6": {
+      "sha512": "R1VNdH0w/wLNoKAjcGn8fLFtpX2EJN92ryYla35QXyl5GSEX+nVi14cEJd9QQH5A/I/mN5t9IVTQd9RP5Yx4kA==",
+      "type": "package",
+      "path": "kylib/1.5.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "kylib.1.5.6.nupkg.sha512",
+        "kylib.nuspec",
+        "lib/netstandard2.0/KYLib.dll",
+        "lib/netstandard2.0/KYLib.xml",
+        "lib/netstandard2.1/KYLib.dll",
+        "lib/netstandard2.1/KYLib.xml"
+      ]
+    },
+    "KYLib.ConsoleUtils/1.5.6": {
+      "sha512": "E8E84sadmhL3aOQgN0E1hjVsTjgY8Mn5O3xxgMbmTQ5MgJ7R99TjGWohknICCf/iKtTVliZsUN6/4UNl4zc0VA==",
+      "type": "package",
+      "path": "kylib.consoleutils/1.5.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "kylib.consoleutils.1.5.6.nupkg.sha512",
+        "kylib.consoleutils.nuspec",
+        "lib/netstandard2.0/KYLib.ConsoleUtils.dll",
+        "lib/netstandard2.0/KYLib.ConsoleUtils.xml",
+        "lib/netstandard2.1/KYLib.ConsoleUtils.dll",
+        "lib/netstandard2.1/KYLib.ConsoleUtils.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "KYLib.ConsoleUtils >= 1.5.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Ejercicios_net\\practica\\prueba3\\prueba3.csproj",
+      "projectName": "prueba3",
+      "projectPath": "C:\\Users\\user\\Desktop\\Ejercicios_net\\practica\\prueba3\\prueba3.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Ejercicios_net\\practica\\prueba3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "KYLib.ConsoleUtils": {
+            "target": "Package",
+            "version": "[1.5.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

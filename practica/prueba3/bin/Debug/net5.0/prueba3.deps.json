@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "prueba3/1.0.0": {
+        "dependencies": {
+          "KYLib.ConsoleUtils": "1.5.6"
+        },
+        "runtime": {
+          "prueba3.dll": {}
+        }
+      },
+      "KYLib/1.5.6": {
+        "runtime": {
+          "lib/netstandard2.1/KYLib.dll": {
+            "assemblyVersion": "1.5.6.0",
+            "fileVersion": "1.5.6.0"
+          }
+        }
+      },
+      "KYLib.ConsoleUtils/1.5.6": {
+        "dependencies": {
+          "KYLib": "1.5.6"
+        },
+        "runtime": {
+          "lib/netstandard2.1/KYLib.ConsoleUtils.dll": {
+            "assemblyVersion": "1.5.6.0",
+            "fileVersion": "1.5.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prueba3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KYLib/1.5.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R1VNdH0w/wLNoKAjcGn8fLFtpX2EJN92ryYla35QXyl5GSEX+nVi14cEJd9QQH5A/I/mN5t9IVTQd9RP5Yx4kA==",
+      "path": "kylib/1.5.6",
+      "hashPath": "kylib.1.5.6.nupkg.sha512"
+    },
+    "KYLib.ConsoleUtils/1.5.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E8E84sadmhL3aOQgN0E1hjVsTjgY8Mn5O3xxgMbmTQ5MgJ7R99TjGWohknICCf/iKtTVliZsUN6/4UNl4zc0VA==",
+      "path": "kylib.consoleutils/1.5.6",
+      "hashPath": "kylib.consoleutils.1.5.6.nupkg.sha512"
+    }
+  }
+}

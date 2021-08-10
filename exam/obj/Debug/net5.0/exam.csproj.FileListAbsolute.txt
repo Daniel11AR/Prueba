@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Ejercicios_net\exam\bin\Debug\net5.0\exam.exe
+C:\Users\user\Desktop\Ejercicios_net\exam\bin\Debug\net5.0\exam.deps.json
+C:\Users\user\Desktop\Ejercicios_net\exam\bin\Debug\net5.0\exam.runtimeconfig.json
+C:\Users\user\Desktop\Ejercicios_net\exam\bin\Debug\net5.0\exam.runtimeconfig.dev.json
+C:\Users\user\Desktop\Ejercicios_net\exam\bin\Debug\net5.0\exam.dll
+C:\Users\user\Desktop\Ejercicios_net\exam\bin\Debug\net5.0\ref\exam.dll
+C:\Users\user\Desktop\Ejercicios_net\exam\bin\Debug\net5.0\exam.pdb
+C:\Users\user\Desktop\Ejercicios_net\exam\obj\Debug\net5.0\exam.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ejercicios_net\exam\obj\Debug\net5.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Ejercicios_net\exam\obj\Debug\net5.0\exam.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Ejercicios_net\exam\obj\Debug\net5.0\exam.AssemblyInfo.cs
+C:\Users\user\Desktop\Ejercicios_net\exam\obj\Debug\net5.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ejercicios_net\exam\obj\Debug\net5.0\exam.dll
+C:\Users\user\Desktop\Ejercicios_net\exam\obj\Debug\net5.0\ref\exam.dll
+C:\Users\user\Desktop\Ejercicios_net\exam\obj\Debug\net5.0\exam.pdb
+C:\Users\user\Desktop\Ejercicios_net\exam\obj\Debug\net5.0\exam.genruntimeconfig.cache
